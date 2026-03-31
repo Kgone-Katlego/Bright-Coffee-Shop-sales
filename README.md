@@ -41,6 +41,7 @@ Microsoft PowerPoint - For  Presentation and Report
 
 
 4. How the Case Study Was Conducted and Insights Found
+
 4.1 How the Analysis Was Conducted
 The case study was conducted using a structured analytical approach:
 
